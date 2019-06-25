@@ -1,2 +1,2 @@
 # DataScience
-Data Science Training 
+Data Science Training Activities 
